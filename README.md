@@ -1,3 +1,13 @@
+<h1> Prueba woobsing </h1>
+
+<p>Para la ejecución del proyecto por favor ejecutar los siguienntes pasos</p>
+
+composer install <br>
+copiar el archivo .env.example y cambiarlo a .env <br>
+php artisan key:generate <br>
+php artisan migrate --seed
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
